@@ -30,6 +30,27 @@ Anything you haven't translated yet simply stays in Japanese, so you can
 translate a little at a time and check it in the game as you go.
 
 
+Updating to a new version of the game
+-------------------------------------
+Files made for an older version still load, but texts that were added or
+changed since then appear in Japanese. To move your work (finished or not)
+onto the newest text list, open this page in your browser:
+
+  https://chingin-dorei.github.io/ihoujin/translation/convert.html
+
+  1. Choose your translation file. It stays in your browser; nothing is
+     uploaded.
+  2. Unchanged texts keep your translation. Where the Japanese was changed,
+     the old and new texts are shown side by side, and you decide whether to
+     use the old translation.
+  3. Save the updated file. New texts are left empty for you to fill in.
+
+You can stop halfway: texts you have not checked yet are kept in the saved
+file under "_review", and translations that are no longer used under
+"_removed". The game ignores both. Please do not delete the empty lines in
+your file: they help the page tell new texts from changed ones.
+
+
 File format
 -----------
   {
@@ -45,6 +66,7 @@ File format
   code     Language code, e.g. "fr", "de", "zh-TW". "ja" cannot be used.
            If you use "en", your file replaces the bundled English.
   name     The name shown in the language list.
+  version  The game version the text list comes from. The game ignores it.
   fixes    Optional. Search-and-replace rules applied after translating,
            as [regular expression, replacement] pairs. The English file uses
            these to fix grammar when a name is inserted, e.g.
