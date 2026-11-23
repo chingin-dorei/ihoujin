@@ -1,5 +1,5 @@
-# ihoujin
-異邦人はどう生きるか？ 攻略メモと翻訳ツール / How Will the Stranger Live? guide and translation kit
+# 異邦人はどう生きるか？ / How Will the Stranger Live?
+異邦人はどう生きるか？ 攻略メモと翻訳ツール / Guide and translation kit
 
 ## ゲーム公開場所 / Play the Game
 * [PLiCy（プリシー）で遊ぶ（日本語）](https://plicy.net/GamePlay/241974)
