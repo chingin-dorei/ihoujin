@@ -3,11 +3,11 @@
 
 ## ゲーム公開場所 / Play the Game
 * [PLiCy（プリシー）で遊ぶ（日本語）](https://plicy.net/GamePlay/241974)
-* [itch.io で遊ぶ（日本語 / English）](https://itch.io)
+* [itch.io で遊ぶ（日本語 / English）](https://chingin-dorei.itch.io/ihoiki)
 
 ## 攻略メモ・関連リンク / Guide & Community
-* [攻略メモ（Web版・ネタバレぼかし対応）](https://github.io)
-* [オリジナル職業 共有掲示板（GitHub Discussions）](https://github.com)
+* [攻略メモ（Web版・ネタバレぼかし対応）](https://chingin-dorei.github.io/ihoujin/)
+* [オリジナル職業 共有掲示板（GitHub Discussions）](https://github.com/chingin-dorei/ihoujin/discussions/1)
 
 ---
 
