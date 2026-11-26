@@ -142,4 +142,4 @@ $('#save').onclick = () => {
 };
 texts();
 fetch('template.json', { cache: 'no-cache' }).then((r) => { if (!r.ok) throw 0; return r.json(); }).then((o) => { if (!tpl) { tpl = o; texts(); run(); } }, () => { if (!tpl) { tplErr = 'notpl'; texts(); } });
-</script></body></html>
+</script><!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "4f14c47768eb4d8399f33db8ea270541"}'></script><!-- End Cloudflare Web Analytics --></body></html>
