@@ -1,7 +1,7 @@
 {
  "code": "en",
  "name": "English (file)",
- "version": "0.9.9",
+ "version": "0.9.10",
  "fixes": [
   [
    "\\bYou's\\b",
