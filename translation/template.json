@@ -1,7 +1,7 @@
 {
  "code": "xx",
  "name": "Language name",
- "version": "0.9.9",
+ "version": "0.9.10",
  "strings": {
   "画面の部品": {
    "攻撃 {0}〜{1} ／ {2}": "",
